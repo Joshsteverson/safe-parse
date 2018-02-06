@@ -1,0 +1,19 @@
+{
+  "name": "safe-parse-util",
+  "version": "1.0.0",
+  "description": "Safely parse JSON strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshsteverson/safe-parse.git"
+  },
+  "author": "JDS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joshsteverson/safe-parse/issues"
+  },
+  "homepage": "https://github.com/Joshsteverson/safe-parse#readme"
+}
